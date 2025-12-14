@@ -4,3 +4,5 @@ motor
 httpx
 pydantic
 pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
